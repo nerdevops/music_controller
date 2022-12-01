@@ -38,12 +38,7 @@
  2. Added RoomView Class
  3. Added Serializers
    Rest example:
-    ``` json
-HTTP 200 OK
-Allow: GET, HEAD, OPTIONS
-Content-Type: application/json
-Vary: Accept
-
+``` json
 [
     {
         "id": 1,
@@ -53,4 +48,5 @@ Vary: Accept
         "votes_to_skip": 1,
         "created_at": "2022-12-01T21:37:18.113972Z"
     }
-]```
+]
+```
